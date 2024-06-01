@@ -1,5 +1,5 @@
 import React, { ReactElement, ReactNode } from "react";
-import { Navbar } from "./_components/navbar/navbar";
+import { Navbar } from "./_components/navbar";
 import { Footer } from "./_components/footer";
 
 const MarketingLayout = ({ children }: { children: React.ReactNode }) => {
